@@ -1,0 +1,7 @@
+D:\.NET\Projects\Essential_Lesson2_Classes_DopTask\User\User\bin\Debug\User.exe.config
+D:\.NET\Projects\Essential_Lesson2_Classes_DopTask\User\User\bin\Debug\User.exe
+D:\.NET\Projects\Essential_Lesson2_Classes_DopTask\User\User\bin\Debug\User.pdb
+D:\.NET\Projects\Essential_Lesson2_Classes_DopTask\User\User\obj\Debug\User.csprojResolveAssemblyReference.cache
+D:\.NET\Projects\Essential_Lesson2_Classes_DopTask\User\User\obj\Debug\User.csproj.CoreCompileInputs.cache
+D:\.NET\Projects\Essential_Lesson2_Classes_DopTask\User\User\obj\Debug\User.exe
+D:\.NET\Projects\Essential_Lesson2_Classes_DopTask\User\User\obj\Debug\User.pdb
